@@ -161,3 +161,12 @@ main{
 .Download-cv{
     text-align: center;
 }
+
+/* footer */
+footer{
+    display: flex;
+    /* justify-content: space-around; */
+    background: #e8f1f1;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
